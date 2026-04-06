@@ -37,7 +37,7 @@ export const cvData: CVData = {
       degree: "Ingeniería en Sistemas Computacionales",
       startDate: "2016",
       endDate: "2021",
-      description: "Graduado con honores"
+      description: ""
     }
   ],
   skills: [
