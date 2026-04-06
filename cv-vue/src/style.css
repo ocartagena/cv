@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+@media print {
+  .cv-container {
+    padding: 0 !important;
+    max-width: 100% !important;
+  }
+  
+  .cv-header {
+    border-radius: 0 !important;
+  }
+  
+  .experience-card:hover {
+    transform: none !important;
+  }
+}
