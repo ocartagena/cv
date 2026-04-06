@@ -9,7 +9,6 @@ export const cvData: CVData = {
     location: "Cancun, Mexico",
     linkedin: "linkedin.com",
     github: "github.com",
-    website: "tuwebsite.com",
     summary: "Desarrollador fullstack con experiencia en sistemas empresariales y operación continua. Enfocado en la estabilidad, optimización de procesos y rápida resolución de incidencias en producción. Experiencia trabajando con APIs, bases de datos y sistemas críticos. Orientado a resultados y soporte eficiente en entornos dinámicos.",
     avatar: "./src/data/images/IMG_2202.png"
   },
