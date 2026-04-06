@@ -4,9 +4,9 @@ export const cvData: CVData = {
   personal: {
     name: "Osmar Francisco Cartagena Nieto",
     title: "Desarrollador Full Stack",
-    email: "osmarcartagena97@gmail.com",
+    email: "osmarcartagena@outlook.com",
     phone: "+52 9838395278",
-    location: "Ciudad, País",
+    location: "Cancun, Mexico",
     linkedin: "linkedin.com/in/tuusuario",
     github: "github.com/tuusuario",
     website: "tuwebsite.com",
@@ -21,12 +21,14 @@ export const cvData: CVData = {
       startDate: "Feb∂ 2022",
       endDate: "Actual",
       description: [
-        "Desarrollo y mantenimiento de aplicaciones web empresariales",
-        "Liderazgo técnico de equipo de 5 desarrolladores",
-        "Implementación de arquitectura de microservicios",
-        "Optimización de rendimiento reduciendo tiempos de carga en 40%"
+        "Mantenimiento y mejora de sistemas empresariales en producción",
+        "Desarrollo de APIs para integración entre sistemas",
+        "Optimización de consultas SQL para mejorar tiempos de respuesta",
+        "Resolución de incidencias críticas en operación diaria",
+        "Implementación de mejoras sin afectar continuidad del servicio",
+        "Colaboración con equipos bajo metodología ágil"
       ],
-      technologies: ["Vue.js", "Node.js", "PostgreSQL", "AWS", "Docker"]
+      technologies: ["Vue.js", "Node.js", "SQL", "C#", "ASPX"]
     },
   ],
   education: [
