@@ -7,8 +7,8 @@ export const cvData: CVData = {
     email: "osmarcartagena@outlook.com",
     phone: "+52 9838395278",
     location: "Cancun, Mexico",
-    linkedin: "linkedin.com/in/tuusuario",
-    github: "github.com/tuusuario",
+    linkedin: "linkedin.com",
+    github: "github.com",
     website: "tuwebsite.com",
     summary: "Desarrollador fullstack con experiencia en sistemas empresariales y operación continua. Enfocado en la estabilidad, optimización de procesos y rápida resolución de incidencias en producción. Experiencia trabajando con APIs, bases de datos y sistemas críticos. Orientado a resultados y soporte eficiente en entornos dinámicos.",
     avatar: "./src/data/images/IMG_2202.png"
@@ -18,7 +18,7 @@ export const cvData: CVData = {
       id: 1,
       company: "Santi Soluciones",
       position: "Desarrollador Fullstack",
-      startDate: "Feb∂ 2022",
+      startDate: "Feb 2022",
       endDate: "Actual",
       description: [
         "Mantenimiento y mejora de sistemas empresariales en producción",
